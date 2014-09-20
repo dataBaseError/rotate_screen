@@ -9,8 +9,8 @@ Simple Config for rotating a tablet laptop
 
         sudo chmod +x rotate-screen.sh
 
-2. Simply link this file to the `/usr/bin/` directory
+2. Simply link this file to the `/usr/local/bin/` directory
 
-        sudo ln -s rotate-screen.sh /usr/bin/rotate-screen
+        sudo ln -s rotate-screen.sh /usr/local/bin/rotate-screen
 
 4. Create a keyboard/icon shortcut to use it (the screen will toggle each time the script is run). 
